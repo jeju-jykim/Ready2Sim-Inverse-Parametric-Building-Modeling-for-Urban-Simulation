@@ -6,7 +6,7 @@ Jaeyeon Kim, Po-Yen Lai, Jian Cheng Wong, Chin Chun Ooi, Yew-Soon Ong, Ivor Tsan
 
 Institute of Advanced Intelligence and Computing (IAIC), A\*STAR, Singapore &nbsp;·&nbsp; Nanyang Technological University, Singapore
 
-[Paper]([https://openreview.net/forum?id=HDWuV3E94L](https://dl.acm.org/doi/10.1145/3770855.3819045))
+[Paper](https://dl.acm.org/doi/10.1145/3770855.3819045)
 
 ## Abstract
 
